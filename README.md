@@ -446,8 +446,8 @@ ROIStudio exports ROIs as `.sel` files compatible with MERSpect. Left-only and r
 |----------|--------|
 | `V` | Selection tool |
 | `R` | Rectangle tool |
-| `G` | Set all canvases to RGB |
-| `C` | Set all canvases to DCS (Color) |
+| `C` | Set all canvases to RGB (color)|
+| `D` | Set all canvases to DCS |
 | `L` | Toggle ROI labels |
 | `M` | Toggle merge spectra |
 | `F` | Fit canvas to panel |
